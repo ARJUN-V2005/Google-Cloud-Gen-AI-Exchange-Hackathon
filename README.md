@@ -171,7 +171,7 @@ For any bug reports, feature requests, or suggestions, please open an issue in t
 
 For any questions or inquiries, feel free to reach out to us at:
 
-- Email: kusumanchi.yagna@kalvium.community
-- GitHub: https://github.com/Yagna123k/CAREER-CRAFT-AI
+- Email: v.arjunrec2327csd@gmail.com
+- GitHub: https://github.com/ARJUN-V2005
 - Figma: https://www.figma.com/design/Vtjpu6WFRcNrWBlCgzRkqx/Career-craft-AI?node-id=0-1&t=6DTPj6AIhhXD0ulr-1a
 - Website: [Career Craft AI](https://career-craft-ai.vercel.app/)
